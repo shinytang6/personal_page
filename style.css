@@ -1,0 +1,84 @@
+body{
+			background-image: url("background.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 900px;
+			padding: 50px;
+			}
+.section-b{
+			margin-top:600px;
+		}
+
+
+.section-a-h1{
+font-size: 5em ;
+color:#C0C0C0;
+}
+.section-a-h3{
+	color: black;
+}
+
+.section-b-h1{
+
+	font-size: 3.2em;
+}
+.section-b-p{
+	font-size: 1.5em;
+	color: black;
+	font-weight: bold;
+}
+.section-c-h1{
+	font-size: 3em;
+	color: black;
+}
+.section-c{
+	margin-top: 600px;
+}
+.section-c-p{
+	
+	font-size: 1.5em;
+	font-weight: bold;
+	color: black;
+}
+.section-d{
+	margin-top: 300px;
+}
+.section-d-h1{
+	font-weight: bold;
+color: black;
+}
+.btn{
+	background-color: #C0C0C0 ;
+}
+.btn{
+	border-style: solid;
+	border-width: 2px;
+    border-color: black;
+
+}
+.target-fix-1 {
+    margin-top: -50px;
+    padding-top: 50px;   //解决瞄点上半部分被导航遮住问题
+}
+.target-fix-2 {
+	padding-top: 50px;
+}
+.target-fix-3{
+	padding-top: 100px;
+}
+.target-fix-4{
+	padding-top: 70px;
+}
+.section-e{
+	margin-top: 300px;
+    padding-top: 50px;
+}
+footer{
+	background-color: #C0C0C0;
+	height: 150px;
+    
+
+}
+.btn:hover{
+	color: #fff;
+	
+}
